@@ -1,0 +1,7 @@
+Arquivo 'main.py' está usando apenas uma biblioteca para criação de grafos
+
+biblioteca usada "networkx"
+
+para instalar a biblioteca:
+
+pip install networkx
